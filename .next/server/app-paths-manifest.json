@@ -1,0 +1,6 @@
+{
+  "/not-found": "app/not-found.js",
+  "/(root)/events/create/page": "app/(root)/events/create/page.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
+  "/(root)/page": "app/(root)/page.js"
+}
